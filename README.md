@@ -49,12 +49,15 @@ CubeSat_Deorbit_Trade_Study/
 
 1. Install Python (3.8+ recommended)
 2. Install required libraries:
+   ```
    pip install numpy matplotlib
 3. Run analysis scripts from the `src` folder:
+   ```
    python mission_analysis.py
    python sensitivity_mass_analysis.py
    python power_and_burn_time_analysis.py
 4. Generate plots:
+   ```
    python plot_mass_sensitivity.py
    python plot_propellant_comparison.py
    python plot_power_vs_thrust.py
@@ -83,6 +86,7 @@ Year : 2026
 ## License
 
 This project is intended for academic and educational purposes only.
+
 
 
 
