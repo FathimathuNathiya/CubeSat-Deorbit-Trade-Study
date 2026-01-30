@@ -75,14 +75,15 @@ CubeSat_Deorbit_Trade_Study/
 - Visual Studio Code
 
 ## Author
-```
+
 Fathimathu Nathiya
 Pre-University Research Project
 Year : 2026
-```
+
 ## License
 
 This project is intended for academic and educational purposes only.
+
 
 
 
