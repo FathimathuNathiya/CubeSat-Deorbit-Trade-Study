@@ -76,13 +76,14 @@ CubeSat_Deorbit_Trade_Study/
 
 ## Author
 
-**Fathimathu Nathiya**
-Pre-University Research Project
+**Fathimathu Nathiya**<br>
+Pre-University Research Project<br>
 Year : 2026
 
 ## License
 
 This project is intended for academic and educational purposes only.
+
 
 
 
