@@ -35,8 +35,8 @@ CubeSat_Deorbit_Trade_Study/
     ├── mass_sensitivity.png
     ├── propellant_comparison.png
     ├── power_vs_thrust.png
-    └── power_vs_burn_time.png```
-
+    └── power_vs_burn_time.png
+```
 ## Methodology Summary
 
 - Orbital mechanics used to compute deorbit delta-V between circular orbits  
@@ -84,6 +84,7 @@ Year : 2026
 
 
 This project is intended for academic and educational purposes only.
+
 
 
 
