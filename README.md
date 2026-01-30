@@ -11,7 +11,7 @@ This project uses Python-based analytical models to compare green chemical propu
 - Analyze power constraints and resulting propulsive burn time for electric propulsion
 
 ## Folder Structure
-'''
+"""
 CubeSat_Deorbit_Trade_Study/
 │
 ├── README.md
@@ -35,7 +35,7 @@ CubeSat_Deorbit_Trade_Study/
     ├── mass_sensitivity.png
     ├── propellant_comparison.png
     ├── power_vs_thrust.png
-    └── power_vs_burn_time.png'''
+    └── power_vs_burn_time.png"""
 
 ## Methodology Summary
 
@@ -84,4 +84,5 @@ Year : 2026
 
 
 This project is intended for academic and educational purposes only.
+
 
