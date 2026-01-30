@@ -10,7 +10,7 @@ This project uses Python-based analytical models to compare green chemical propu
 - Perform sensitivity analysis with respect to CubeSat dry mass  
 - Analyze power constraints and resulting propulsive burn time for electric propulsion
 
-## Folder Structure
+'''## Folder Structure
 
 CubeSat_Deorbit_Trade_Study/
 │
@@ -35,7 +35,7 @@ CubeSat_Deorbit_Trade_Study/
     ├── mass_sensitivity.png
     ├── propellant_comparison.png
     ├── power_vs_thrust.png
-    └── power_vs_burn_time.png
+    └── power_vs_burn_time.png'''
 
 ## Methodology Summary
 
@@ -81,5 +81,6 @@ Pre-University Research Project
 Year : 2026
 
 ## License
+
 
 This project is intended for academic and educational purposes only.
