@@ -87,7 +87,6 @@ CubeSat_Deorbit_Trade_Study/
 |
 ├── report/
 │   └── CubeSat_Deorbit_Analysis.docx
-│
 
 ```
 
